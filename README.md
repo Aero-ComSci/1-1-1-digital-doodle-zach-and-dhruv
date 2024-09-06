@@ -2,10 +2,9 @@
 # 1.1.1-Digital Doodle
 By Zach B and Dhruv K
 ------------------------
-1. This app is for people who people who want to 
-1. What this app does is take a picture of from the camera of the device,
-  and after, it allows you to edit the picture with different colors, allowing you to draw on the image
-1. Add screenshots of the design view or actual app
+1. This app is for people who people who want to take pictures and edit and share it afterward
+1. What this app does is take a picture of from the camera of the device and after, it allows you to edit the picture with different colors, allowing you to draw on the image
+1. 
 1. Blocks that you showcase your individual skill
 1. The images you created
 
